@@ -1,0 +1,4 @@
+/**
+ * Апи.
+ */
+export class CounterApi {}
